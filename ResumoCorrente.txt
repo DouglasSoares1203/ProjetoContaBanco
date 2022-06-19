@@ -1,0 +1,5 @@
+Transaction: +$1000 at 18/06/2022 22:26:42 Current Balanço: $3000
+Transaction: +$200 at 18/06/2022 22:59:39 Current Balanço: $2200
+Transaction: -$100 at 19/06/2022 09:30:36 Current Balanço: $1900
+Transaction: +$1000 at 19/06/2022 11:28:00 Current Balanço: $3000
+Transaction: -$500 at 19/06/2022 11:28:36 Current Balanço: $2500

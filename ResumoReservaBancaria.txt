@@ -1,0 +1,2 @@
+Transaction: -$111 at 19/06/2022 11:18:59 Current Balanço: $389
+Transaction: -$500 at 19/06/2022 11:19:41 Current Balanço: $-111
